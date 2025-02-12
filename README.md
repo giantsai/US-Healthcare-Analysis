@@ -86,7 +86,7 @@ Dive into the insights visually with our interactive Power BI dashboard:
 
 Understanding the underlying data structure is key to making sense of the insights. Below is the Entity Relationship Diagram (ERD) that maps out the data architecture for the project:
 
-[image](https://github.com/user-attachments/assets/ffaa6343-beba-4eb0-a759-904b99ee41b3)
+![Entity Relationship Diagram (ERD)](https://github.com/user-attachments/assets/ffaa6343-beba-4eb0-a759-904b99ee41b3)
 
 *Figure: Entity Relationship Diagram (ERD)*
 
