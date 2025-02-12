@@ -1,6 +1,55 @@
 # U.S. Healthcare Industry Dynamics (2019-2020)
 
-![Project Banner](https://via.placeholder.com/1200x300?text=U.S.+Healthcare+Industry+Dynamics+%282019-2020%29)
+![Project Banner]<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Subtle Analytics Banner</title>
+  <style>
+    /* Basic reset and body styling */
+    body {
+      margin: 0;
+      font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+      background-color: #f7f7f7;
+      color: #333;
+    }
+    
+    /* The analytics banner container */
+    .analytics-banner {
+      background-color: #ffffff;  /* clean white background */
+      border-bottom: 1px solid #e0e0e0;  /* subtle bottom border */
+      padding: 10px 20px;
+      text-align: center;
+      font-size: 14px;
+      box-shadow: 0 1px 3px rgba(0,0,0,0.05);  /* very light shadow for depth */
+    }
+    
+    /* Styling for metrics and titles */
+    .analytics-banner .metric {
+      font-weight: bold;
+      margin: 0 5px;
+    }
+    
+    /* Optional: separate metrics with a subtle divider */
+    .analytics-banner .divider {
+      color: #ccc;
+      margin: 0 5px;
+    }
+  </style>
+</head>
+<body>
+  <div class="analytics-banner">
+    <span class="title">Site Analytics:</span>
+    <span class="metric">Visitors: 1,234</span>
+    <span class="divider">|</span>
+    <span class="metric">Bounce Rate: 48%</span>
+    <span class="divider">|</span>
+    <span class="metric">Avg. Time: 3m 12s</span>
+  </div>
+</body>
+</html>
+
 <!-- Replace the above banner image with a custom banner if available -->
 
 ## Table of Contents
@@ -18,7 +67,7 @@
 
 ## Project Overview
 
-This project offers an in-depth analysis of the U.S. healthcare landscape during 2019-2020. Every section of the project unfolds a new chapter in the evolving narrative of healthcare, presenting carefully curated insights that empower informed decision-making.
+This project offers an in-depth analysis of the U.S. healthcare landscape during 2019-2020. Every section of the project unfolds a new chapter in the evolving healthcare narrative, presenting carefully curated insights that empower informed decision-making.
 
 ### Explore the Interactive Power BI Dashboard
 
@@ -92,29 +141,13 @@ Dive into the insights visually with our interactive Power BI dashboard:
 
 Understanding the underlying data structure is key to making sense of the insights. Below is the Entity Relationship Diagram (ERD) that maps out the data architecture for the project:
 
-![Data Modeling Diagram](<DATA_MODELING_IMAGE_URL>)
+![Data Modeling Diagram]![image](https://github.com/user-attachments/assets/ffaa6343-beba-4eb0-a759-904b99ee41b3)
+
 *Figure: Entity Relationship Diagram (ERD)*
 
-> **Tip:** Replace `<DATA_MODELING_IMAGE_URL>` with the actual URL or relative path to your data modeling image. If you prefer to integrate the ERD within the insights section, you can move this block there.
 
 ---
 
-## Full Report
-
-For a comprehensive analysis, refer to the full report which delves into detailed methodologies, data sources, and extended insights.
-
-[Read the Full Report](./FULL_REPORT.md)
-<!-- Update the link above if your report is hosted elsewhere -->
-
----
-
-## Usage
-
-To get started with this project:
-
-1. **Clone the Repository:**  
-   ```bash
-   git clone https://github.com/yourusername/your-repo.git
 
 
 
