@@ -1,17 +1,11 @@
 # U.S. Healthcare Industry Dynamics (2019-2020)
 
-![Project Banner]![image](https://github.com/user-attachments/assets/81fd93b0-1c43-457e-8e01-58e87f13478e)
-
-
 ## Table of Contents
 - [Project Overview](#project-overview)
 - [Key Features](#key-features)
 - [Highlights](#highlights)
 - [Insights](#insights)
 - [Data Modeling](#data-modeling)
-- [Full Report](#full-report)
-- [Usage](#usage)
-- [Contribution](#contribution)
 - [Conclusion](#conclusion)
 
 ---
@@ -96,6 +90,13 @@ Understanding the underlying data structure is key to making sense of the insigh
 
 *Figure: Entity Relationship Diagram (ERD)*
 
+## Conclusion
+
+This project offers a robust analysis of the U.S. healthcare landscape during 2019-2020. By harnessing advanced data cleaning, transformation, and DAX calculations, we transformed raw data into actionable insights that drive informed decision-making.
+
+The interactive Power BI dashboard provides a comprehensive view of key metrics—ranging from hospital performance and patient outcomes to financial trends—empowering stakeholders to make data-driven decisions. Additionally, the detailed data modeling diagram (ERD) underscores the strong foundation of our analytical framework, ensuring transparency and clarity in the data relationships.
+
+In essence, our findings not only highlight historical trends but also lay the groundwork for strategic improvements in healthcare delivery and resource allocation. Thank you for exploring this project, and we hope it contributes meaningfully to advancing the U.S. healthcare sector.
 
 ---
 
