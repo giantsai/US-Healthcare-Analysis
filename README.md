@@ -1,56 +1,7 @@
 # U.S. Healthcare Industry Dynamics (2019-2020)
 
-![Project Banner]<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Subtle Analytics Banner</title>
-  <style>
-    /* Basic reset and body styling */
-    body {
-      margin: 0;
-      font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
-      background-color: #f7f7f7;
-      color: #333;
-    }
-    
-    /* The analytics banner container */
-    .analytics-banner {
-      background-color: #ffffff;  /* clean white background */
-      border-bottom: 1px solid #e0e0e0;  /* subtle bottom border */
-      padding: 10px 20px;
-      text-align: center;
-      font-size: 14px;
-      box-shadow: 0 1px 3px rgba(0,0,0,0.05);  /* very light shadow for depth */
-    }
-    
-    /* Styling for metrics and titles */
-    .analytics-banner .metric {
-      font-weight: bold;
-      margin: 0 5px;
-    }
-    
-    /* Optional: separate metrics with a subtle divider */
-    .analytics-banner .divider {
-      color: #ccc;
-      margin: 0 5px;
-    }
-  </style>
-</head>
-<body>
-  <div class="analytics-banner">
-    <span class="title">Site Analytics:</span>
-    <span class="metric">Visitors: 1,234</span>
-    <span class="divider">|</span>
-    <span class="metric">Bounce Rate: 48%</span>
-    <span class="divider">|</span>
-    <span class="metric">Avg. Time: 3m 12s</span>
-  </div>
-</body>
-</html>
+![Project Banner]![image](https://github.com/user-attachments/assets/81fd93b0-1c43-457e-8e01-58e87f13478e)
 
-<!-- Replace the above banner image with a custom banner if available -->
 
 ## Table of Contents
 - [Project Overview](#project-overview)
